@@ -1,8 +1,12 @@
 # Spider-bot leg's GUI - Matlab 🕷
 A graphical user interface that displays the current position of a mechanism that emulates a spider's leg based on the angle of the joints. 
 
-## Author 👤
+## Lead Developers 👤
 **Luis Ángel Sánchez Aguilar**
+
+* [LinkedIn](https://www.linkedin.com/in/sanchezluismachinelearning/)
+
+**Roger Aldo Acosta Baltodano**
 
 * [LinkedIn](https://www.linkedin.com/in/sanchezluismachinelearning/)
 
@@ -25,4 +29,4 @@ Note: Both files are independent. You can use one or the other depending on whet
 
 ## Hiring 🤝🏿
 
-If you wish to hire me, please contact me at the following e-mail address: luislasabills@gmail.com
+If you wish to hire us, please contact us at the following e-mail address: t3.aila.dev@gmail.com
