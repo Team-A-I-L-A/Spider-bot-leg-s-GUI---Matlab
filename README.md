@@ -28,5 +28,4 @@ Note: Both files are independent. You can use one or the other depending on whet
 
 
 ## Hiring 🤝🏿
-
 If you wish to hire us, please contact us at the following e-mail address: t3.aila.dev@gmail.com
