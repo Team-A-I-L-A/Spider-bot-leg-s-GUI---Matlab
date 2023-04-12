@@ -8,7 +8,7 @@ A graphical user interface that displays the current position of a mechanism tha
 
 **Roger Aldo Acosta Baltodano**
 
-* [LinkedIn](https://www.linkedin.com/in/sanchezluismachinelearning/)
+* [LinkedIn](https://www.linkedin.com/in/roger-aldo-acosta-baltodano/)
 
 ## Main Files description 📘
 
